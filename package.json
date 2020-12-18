@@ -1,0 +1,14 @@
+{
+  "name": "ransomletter",
+  "version": "1.0.0",
+  "description": "Multiparadigmal Programming Languages ZH",
+  "main": "ransomLetter.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Bakos Martin",
+  "license": "MIT",
+  "dependencies": {
+    "console-read-write": "^0.1.1"
+  }
+}
