@@ -9,6 +9,7 @@
   "author": "Bakos Martin",
   "license": "MIT",
   "dependencies": {
-    "console-read-write": "^0.1.1"
+    "console-read-write": "^0.1.1",
+    "hunspell-spellchecker": "^1.0.2"
   }
 }
